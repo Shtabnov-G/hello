@@ -1,1 +1,3 @@
-By world! I go to sleep!
+﻿By world! I go to sleep!
+Новая строка, модифицированный файл!
+Другая строка
